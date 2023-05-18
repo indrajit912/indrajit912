@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Indrajit Ghosh
+- 👋 Hi, I’m Indrajit.
 - 👀 Interested in coding with python.
 - 🌱 Currently studying mathematics at Indian Statistical Institute, Bangalore, India.
 
